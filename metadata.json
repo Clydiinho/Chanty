@@ -1,0 +1,6 @@
+{
+  "name": "CHANTY",
+  "description": "Every place leaves a story. A cinematic editorial travel journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
